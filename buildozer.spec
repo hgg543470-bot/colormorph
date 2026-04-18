@@ -20,7 +20,7 @@ source.include_exts = py,png,jpg,kv,atlas,spec
 version = 0.1
 
 # (list) Application requirements (оставляем без изменений)
-requirements = python3,flet,pillow,msgpack
+requirements = python3, flet, pillow, msgpack, repath, websockets, typing_extensions, httpx
 
 android.meta_data = moe.shizuku.privileged.api.version=3
 
