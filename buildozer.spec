@@ -1,9 +1,9 @@
 [app]
 # (str) Title of your application
-title = JennyMonitor
+title = Jennycolormorph
 
 # (str) Package name
-package.name = jennymonitor
+package.name = Jennycolormorph
 
 # (str) Package domain (needed for android packaging)
 package.domain = org.test
