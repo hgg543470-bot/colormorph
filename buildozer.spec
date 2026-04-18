@@ -20,7 +20,7 @@ source.include_exts = py,png,jpg,kv,atlas,spec
 version = 0.1
 
 # (list) Application requirements (оставляем без изменений)
-requirements = python3, flet, flet-core, flet-web, pillow, msgpack, repath, websockets, typing_extensions, httpx, httpcore, anyio, sniffio, certifi, idna, pydantic==1.10.13, fastapi==0.99.1, jinja2, markupsafe, uvicorn, starlette, h11, exceptiongroup, annotated-types, typing-compat, annotated-doc
+requirements = python3, flet==0.21.0, flet-core==0.21.0, flet-web==0.21.0, pydantic==1.10.13, fastapi==0.99.1, pillow, msgpack, repath, websockets, typing_extensions, httpx, httpcore, anyio, sniffio, certifi, idna, jinja2, markupsafe, uvicorn, starlette, h11, exceptiongroup, annotated-types, typing-compat, annotated-doc
 
 android.meta_data = moe.shizuku.privileged.api.version=3
 
